@@ -1,6 +1,6 @@
 <?php
     function runQuery($query) {
-        $mysqli = new mysqli("37.59.55.185", "siEohyonbh", "wgENd15Gec", "siEohyonbh", 3306);
+        $mysqli = new mysqli("localhost","root","password","memehub");
         $result = $mysqli->query($query);
                     
         if ($result === FALSE || $result === TRUE) {
