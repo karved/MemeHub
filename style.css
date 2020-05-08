@@ -1,0 +1,101 @@
+.ui.borderless.inverted.menu{
+    margin-left: 7%;
+    margin-right: 7%;
+    
+}
+.header1{
+    padding: 0.1%;
+    background:rgba(0, 0, 0, 0.897)	;
+    
+}
+.ui.dropdown{
+    left: 16%;
+    font-family: Lucida Console;
+    font-size: 15;
+    top:25%;
+    
+}
+.item{
+    font-family: Lucida Console;
+    font-size: 15;
+}
+.ui.inverted.transparent.icon.input{
+    left: 100%;
+    
+}
+.ui.animated.fade.button{
+    left: 420%;
+    font-family: Lucida Console;
+ 
+}
+.ui.primary.button{
+    left: 350%;
+    font-family: Lucida Console;
+    color:gainsboro;
+    position: relative;
+
+}
+.ui.animated.list{
+    margin-left: 30%;
+    margin-right: 40%;
+    font-family: Lucida Console;
+    font-size: 16;
+    color: rgba(2, 3, 3, 0.616);
+    
+
+}
+
+.ui.large.button{
+    left: 100%;
+}
+.c{
+    
+    padding: 20%;
+    text-align: center;
+    font-family: Lucida Console;
+    font-size: 20;
+    margin-left: 10%;
+    margin-right: 25%;
+    color: rgba(2, 3, 3, 0.616);
+    
+}
+.ui.basic.label{
+    font-family: Lucida Console;
+    
+}
+.ui.blue.labeled.submit.icon.button{
+    font-family: Lucida Console;
+}
+
+.ui.yellow.button{
+    color: black;
+    position: fixed;
+    left: 80%;
+    top: 90%;
+}
+.ui.vertical.divider{
+    font-size: 30;
+}
+.ui.large.submit.button{
+    font-family: Lucida Console;
+    font-size: 15;
+}
+.i{
+    margin-left:50%;
+    color: red;
+    font-family: Lucida Console;
+    font-size: 15;
+}
+.ui.massive.form{
+    margin-left: 10%;
+    margin-right:10% ;
+    top: 10%;
+    
+}
+.u{
+    margin-left: 10%;
+    margin-right:10% ;
+    top: 10%;
+    position: fixed;
+}
+
